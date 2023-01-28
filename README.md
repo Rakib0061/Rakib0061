@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Rakib
+# Hi there 👋, My name is Rakib
 #### I am developer in Web  section
 ![I am developer in Web  section](https://media.licdn.com/dms/image/D5616AQGrTrxjw_2nhg/profile-displaybackgroundimage-shrink_350_1400/0/1674933708731?e=1680134400&v=beta&t=oaqfQugrw8FjWBhIpdD0P83iKjnmfyWmynyLbLVxVf0)
 
@@ -11,7 +11,7 @@ Skills: HTML / CSS / JS / SCSS
 
 - 🌱 I’m currently learning : REACT JS 
 - 💬 Ask me about : Web Developing 
-- 📫 How to reach me: : Knock on mail 
+- 📫 How to reach me: : Knock on Mail 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rakib0061)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakibul-islam-567353194///)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rhythm0061)  
