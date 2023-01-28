@@ -5,7 +5,7 @@
 
 I am Rakib. 
 I'm currently majoring a Bachelor's degree in MANAGEMENT at "Dhaka College,Dhaka". 
-One day I realize that I like to work activities that have to do with ideas and thinking. I like to search facts which have realistic interests then I choose this coding society. 
+I like to work activities that have to do with ideas and thinking. I like to search facts which have realistic interests then I choose this coding society. 
 And that's why you know me...😬
 
 Skills: HTML / CSS / JS / SCSS
