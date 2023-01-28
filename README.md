@@ -22,6 +22,4 @@ Skills: HTML / CSS / JS / SCSS
 
 ![GitHub metrics](https://metrics.lecoq.io/Rakib0061)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Rakib0061)  
-
 ![Profile views](https://gpvc.arturio.dev/Rakib0061)  
