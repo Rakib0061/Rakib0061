@@ -11,7 +11,7 @@ Skills: HTML / CSS / JS / SCSS
 
 - 🌱 I’m currently learning : REACT JS 
 - 💬 Ask me about : Web Developing 
-- 📫 How to reach me: : Knock on Mail 
+- 📫 How to reach me : Knock on Mail 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rakib0061)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rakibul-islam-567353194///)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Rhythm0061)  
