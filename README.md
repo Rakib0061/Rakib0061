@@ -1,6 +1,6 @@
-<h1 align="center">Hi, My name is Rakib 👋</h1>
+<h1 align="center">Hi there, I'm Rakib 👋</h1>
 
-### I am a developer in Web  section.
+### I am a developer in Web  section. ###
 ![I am developer in Web  section](https://media.licdn.com/dms/image/D5616AQGrTrxjw_2nhg/profile-displaybackgroundimage-shrink_350_1400/0/1674933708731?e=1680134400&v=beta&t=oaqfQugrw8FjWBhIpdD0P83iKjnmfyWmynyLbLVxVf0)
 
 I'm currently majoring a Bachelor's degree in MANAGEMENT at "Dhaka College,Dhaka". 
